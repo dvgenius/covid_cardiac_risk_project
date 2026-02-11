@@ -14,8 +14,8 @@ st.set_page_config(
 st.title("AI-Based Post-COVID Vaccination Cardiac Risk Dashboard")
 
 # ---------------- LOAD MODEL ----------------
-model = joblib.load("../model/cardiac_model.pkl")
-encoders = joblib.load("../model/encoders.pkl")
+model = joblib.load("model/cardiac_model.pkl")
+encoders = joblib.load("model/encoders.pkl")
 
 # ---------------- DATA SOURCE ----------------
 st.sidebar.subheader("Dataset Source")
