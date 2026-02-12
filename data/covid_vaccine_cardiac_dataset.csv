@@ -1,0 +1,1001 @@
+age,sex,state,covid_positive,vaccination_status,vaccine_name,number_of_doses,cardiac_arrest,time_to_event,event,diabetes,hypertension,prior_cvd
+69,Male,Tamil Nadu,0,2,Sputnik V,2,0,75,0,1,0,0
+32,Male,Uttar Pradesh,0,0,None,0,0,103,0,0,1,0
+89,Female,Delhi,0,0,Sputnik V,0,0,297,1,0,1,0
+78,Male,Maharashtra,0,2,Covishield,1,0,178,0,0,0,0
+38,Male,Tamil Nadu,1,2,Covaxin,2,0,215,1,0,1,0
+41,Male,Uttar Pradesh,0,0,Sputnik V,2,0,315,0,0,0,0
+20,Male,Bihar,0,2,None,3,0,39,1,0,0,0
+39,Female,Uttar Pradesh,0,0,Covaxin,3,0,259,0,0,0,0
+70,Male,Uttar Pradesh,1,2,None,3,0,204,1,0,0,0
+19,Male,Delhi,1,2,Covaxin,1,0,7,0,0,0,0
+47,Male,Maharashtra,0,2,Covaxin,1,0,49,0,1,0,0
+55,Male,Bihar,1,0,Sputnik V,3,0,26,0,0,0,0
+19,Female,Karnataka,0,2,Covishield,2,0,161,1,0,0,0
+81,Female,Karnataka,0,0,Sputnik V,1,0,357,0,0,0,0
+77,Male,Uttar Pradesh,0,0,None,2,0,176,0,0,1,0
+38,Male,Delhi,0,2,None,2,0,79,1,0,0,0
+50,Male,Delhi,0,2,Covaxin,0,0,2,0,1,0,0
+75,Male,Karnataka,1,0,Covaxin,3,0,132,0,0,0,0
+39,Male,Bihar,1,0,Covishield,0,0,276,0,0,0,0
+66,Male,Maharashtra,1,1,Sputnik V,3,0,117,0,0,1,0
+76,Female,Bihar,0,0,None,3,0,164,1,0,0,0
+59,Male,Tamil Nadu,0,1,Covaxin,2,0,288,0,0,1,0
+77,Female,Tamil Nadu,1,1,Covishield,3,0,28,0,1,0,0
+32,Female,Maharashtra,0,1,None,2,0,333,1,0,0,1
+79,Male,Karnataka,0,2,Covaxin,2,0,1,0,0,0,0
+79,Female,Maharashtra,0,2,None,3,0,188,0,0,0,0
+64,Female,Delhi,1,0,Covishield,2,0,56,0,0,0,0
+79,Female,Tamil Nadu,0,1,Covishield,2,0,35,0,0,0,1
+68,Female,Uttar Pradesh,0,2,None,2,0,112,0,0,0,0
+72,Female,Uttar Pradesh,1,2,Sputnik V,1,0,286,1,0,0,0
+81,Female,Karnataka,0,2,None,2,0,310,0,0,1,1
+20,Male,Delhi,0,2,Covaxin,1,0,36,0,0,0,0
+68,Female,Bihar,0,2,Sputnik V,1,0,217,0,0,0,1
+24,Female,Delhi,0,1,Covaxin,2,0,80,0,0,0,1
+38,Female,Uttar Pradesh,1,1,None,2,0,314,1,0,0,0
+56,Male,Uttar Pradesh,0,1,Sputnik V,1,0,83,1,0,0,0
+35,Female,Tamil Nadu,0,1,Covaxin,1,0,65,0,0,1,0
+21,Male,Delhi,1,0,None,2,0,325,0,0,1,0
+77,Female,Delhi,1,1,None,2,0,128,0,1,0,0
+31,Male,Uttar Pradesh,1,2,Sputnik V,3,0,307,0,0,0,0
+26,Male,Bihar,0,1,None,1,0,22,0,0,0,0
+70,Female,Karnataka,0,0,Covishield,1,0,216,0,0,0,0
+19,Female,Karnataka,1,2,Covaxin,3,0,107,0,0,0,0
+77,Male,Delhi,1,1,Covaxin,1,0,109,0,0,0,0
+88,Female,Karnataka,0,1,None,0,0,357,0,0,0,0
+61,Male,Uttar Pradesh,0,1,None,1,0,181,0,0,1,0
+25,Male,Uttar Pradesh,0,2,Covishield,3,0,356,0,0,0,0
+64,Male,Delhi,1,2,Sputnik V,0,0,164,0,0,0,0
+52,Male,Delhi,0,0,None,2,0,68,0,1,1,0
+53,Male,Tamil Nadu,0,2,None,3,0,292,1,0,0,1
+67,Female,Delhi,0,2,None,3,0,180,0,0,1,0
+21,Male,Bihar,1,1,None,2,0,181,0,0,0,0
+19,Male,Karnataka,1,2,Covaxin,3,0,169,0,0,1,0
+23,Female,Delhi,0,1,None,1,0,22,0,0,1,0
+71,Male,Maharashtra,1,1,Covaxin,2,0,66,1,0,0,0
+21,Female,Tamil Nadu,1,2,None,3,0,21,0,0,1,0
+71,Female,Maharashtra,0,0,Sputnik V,2,0,100,0,0,0,0
+80,Female,Uttar Pradesh,0,0,Covishield,2,0,300,1,1,1,1
+35,Male,Karnataka,0,2,Sputnik V,2,0,103,0,1,0,0
+61,Male,Delhi,1,0,None,0,0,47,0,0,0,0
+51,Male,Maharashtra,0,1,None,3,0,39,0,0,0,1
+79,Female,Karnataka,1,1,None,0,0,285,0,0,1,0
+31,Male,Uttar Pradesh,1,2,Sputnik V,3,0,310,0,0,0,0
+65,Female,Bihar,0,0,None,1,0,90,0,0,1,0
+32,Male,Tamil Nadu,1,0,Sputnik V,1,0,85,0,0,1,0
+89,Female,Karnataka,0,1,Covaxin,1,0,273,1,1,0,0
+79,Male,Karnataka,0,2,Covishield,3,0,336,0,0,1,0
+57,Male,Bihar,1,0,Covishield,2,0,188,0,0,1,1
+70,Male,Karnataka,1,2,Sputnik V,2,0,159,0,0,0,1
+41,Female,Uttar Pradesh,0,0,Covaxin,0,0,243,0,1,0,1
+43,Female,Uttar Pradesh,1,1,Sputnik V,0,0,73,0,0,0,1
+77,Male,Bihar,1,1,Covaxin,1,0,49,1,0,0,0
+58,Male,Tamil Nadu,0,2,None,0,0,101,0,0,0,0
+46,Female,Delhi,1,1,Covaxin,3,1,2,0,1,0,0
+32,Female,Maharashtra,0,0,Covaxin,3,0,244,0,0,0,0
+62,Female,Delhi,0,1,Covaxin,0,0,176,0,1,0,1
+82,Male,Karnataka,0,2,Covishield,0,0,238,1,0,0,0
+88,Female,Maharashtra,1,2,Covaxin,0,0,59,0,0,1,1
+26,Male,Bihar,1,2,None,0,1,353,1,0,1,1
+18,Female,Bihar,0,0,None,1,1,99,0,0,0,1
+25,Male,Tamil Nadu,0,0,None,1,0,359,0,0,1,1
+80,Female,Maharashtra,1,0,Covaxin,0,0,2,0,1,1,0
+28,Female,Uttar Pradesh,0,0,Sputnik V,3,0,243,0,0,1,0
+25,Female,Maharashtra,1,0,Sputnik V,1,0,297,0,0,0,0
+52,Female,Karnataka,1,1,None,3,0,211,0,0,0,0
+52,Female,Uttar Pradesh,0,0,Covishield,2,0,123,0,0,1,0
+50,Male,Bihar,1,0,Sputnik V,3,0,229,0,0,1,1
+22,Female,Maharashtra,0,1,Covaxin,0,0,82,0,0,1,1
+58,Female,Delhi,1,0,Sputnik V,2,1,144,0,0,1,0
+45,Female,Tamil Nadu,1,2,None,1,0,140,1,0,0,0
+24,Male,Delhi,1,0,Covishield,1,0,29,0,1,0,0
+89,Female,Tamil Nadu,0,0,Sputnik V,2,0,270,0,0,0,0
+29,Male,Karnataka,1,2,Sputnik V,3,0,247,0,1,0,0
+51,Female,Delhi,0,2,None,1,0,12,0,0,1,0
+50,Female,Maharashtra,0,2,Covishield,0,0,355,0,0,0,0
+65,Male,Maharashtra,0,2,Covishield,2,1,337,0,0,0,0
+40,Female,Delhi,0,0,None,0,0,106,0,0,1,0
+79,Male,Maharashtra,0,2,Covaxin,2,0,32,1,1,0,0
+54,Male,Karnataka,1,2,Sputnik V,1,0,74,0,0,1,0
+61,Female,Uttar Pradesh,1,1,Covaxin,3,0,171,0,0,1,0
+52,Male,Karnataka,0,2,Sputnik V,2,0,337,0,1,0,0
+82,Female,Tamil Nadu,1,2,Sputnik V,2,0,69,0,0,0,1
+64,Female,Karnataka,0,1,Covaxin,0,0,301,0,0,0,0
+20,Male,Tamil Nadu,1,1,None,1,0,362,0,0,0,0
+18,Male,Maharashtra,1,0,None,0,0,137,0,1,0,0
+22,Male,Uttar Pradesh,0,1,Sputnik V,1,0,100,0,0,0,0
+31,Male,Maharashtra,1,0,None,0,0,146,0,0,1,1
+44,Female,Bihar,0,1,Sputnik V,2,0,9,0,0,0,0
+26,Female,Maharashtra,0,1,None,0,0,62,0,1,1,0
+32,Male,Tamil Nadu,1,0,Sputnik V,3,0,185,0,0,0,0
+59,Female,Maharashtra,0,1,None,1,0,29,1,0,0,0
+68,Female,Maharashtra,0,0,Covishield,1,0,114,1,0,1,0
+80,Female,Uttar Pradesh,0,1,Covaxin,2,0,143,0,1,0,0
+69,Female,Maharashtra,1,2,Covishield,1,0,120,0,1,0,0
+21,Male,Uttar Pradesh,0,1,Covaxin,3,0,170,0,1,1,0
+40,Male,Delhi,0,0,Covaxin,0,0,157,0,0,1,0
+32,Female,Bihar,1,1,Sputnik V,2,0,335,0,0,1,0
+60,Male,Uttar Pradesh,1,0,Covaxin,3,0,349,0,0,0,0
+46,Male,Tamil Nadu,0,0,Covishield,1,0,260,0,1,0,0
+53,Male,Delhi,0,2,Covishield,1,0,82,0,0,1,0
+30,Female,Uttar Pradesh,0,2,None,3,1,242,0,0,1,0
+49,Female,Uttar Pradesh,0,0,Covishield,0,0,172,1,1,0,0
+88,Female,Bihar,0,1,None,0,0,231,0,0,1,0
+76,Male,Tamil Nadu,1,0,Covaxin,2,0,208,0,0,0,0
+45,Female,Karnataka,1,0,Covishield,1,1,75,0,0,0,0
+83,Female,Karnataka,1,1,Covaxin,3,0,270,0,0,0,1
+59,Male,Uttar Pradesh,0,1,Covishield,0,0,114,0,1,0,0
+62,Female,Maharashtra,1,1,Covishield,2,0,62,0,0,0,0
+79,Female,Tamil Nadu,0,1,None,1,0,362,1,0,0,0
+74,Male,Delhi,1,0,Covaxin,1,0,320,0,0,0,1
+23,Male,Maharashtra,1,0,Covishield,2,0,102,0,0,1,0
+45,Male,Maharashtra,0,2,Sputnik V,2,0,362,0,0,1,1
+45,Female,Tamil Nadu,1,0,Covaxin,0,0,210,0,0,0,1
+61,Female,Uttar Pradesh,0,1,Covaxin,3,0,255,0,0,1,0
+47,Female,Uttar Pradesh,1,2,Covaxin,1,0,20,1,0,0,1
+79,Male,Uttar Pradesh,0,1,None,3,0,58,1,0,0,0
+79,Male,Uttar Pradesh,0,0,Sputnik V,1,0,112,0,0,1,1
+18,Female,Karnataka,1,2,Covaxin,1,0,313,0,1,0,0
+44,Female,Uttar Pradesh,0,1,Covishield,3,0,196,0,1,0,0
+79,Male,Karnataka,1,2,Covishield,2,0,353,0,1,0,0
+20,Male,Karnataka,0,2,None,0,1,92,1,0,1,0
+87,Male,Uttar Pradesh,1,0,Covishield,1,0,52,0,0,0,0
+89,Male,Bihar,1,1,Covaxin,2,0,293,0,0,1,0
+44,Female,Delhi,0,2,Covishield,1,1,8,0,0,0,0
+26,Male,Maharashtra,0,2,Covaxin,0,0,300,0,0,1,0
+79,Female,Karnataka,0,1,Covishield,1,0,98,1,0,1,0
+54,Female,Tamil Nadu,0,2,Sputnik V,0,0,236,0,1,1,0
+68,Female,Tamil Nadu,0,2,None,0,0,69,0,0,0,0
+61,Male,Delhi,1,2,None,1,0,45,0,0,0,0
+41,Male,Tamil Nadu,1,1,Sputnik V,1,0,137,0,1,1,0
+76,Male,Bihar,1,1,Sputnik V,0,0,234,0,0,0,0
+49,Male,Tamil Nadu,1,1,None,2,0,32,0,1,0,0
+69,Female,Maharashtra,1,1,Sputnik V,3,0,289,0,1,0,1
+79,Male,Maharashtra,1,0,Covaxin,0,0,126,0,1,1,0
+75,Male,Karnataka,0,2,Covishield,1,0,67,0,0,0,1
+69,Female,Uttar Pradesh,1,1,None,1,0,30,0,0,0,0
+29,Male,Bihar,1,2,Sputnik V,2,0,114,0,0,0,0
+56,Female,Karnataka,0,2,Covaxin,3,0,204,0,0,0,0
+19,Female,Bihar,0,0,None,0,0,29,0,0,1,1
+20,Female,Uttar Pradesh,0,1,Sputnik V,0,0,131,0,0,0,0
+73,Female,Tamil Nadu,0,1,None,3,0,185,0,0,0,0
+76,Female,Tamil Nadu,1,2,Sputnik V,0,0,253,0,0,1,0
+19,Female,Uttar Pradesh,0,1,None,3,0,286,1,1,1,0
+19,Female,Karnataka,0,2,Covaxin,1,0,62,0,1,0,1
+71,Female,Uttar Pradesh,1,2,Covaxin,3,0,3,0,0,1,0
+18,Male,Delhi,0,0,Covishield,0,0,68,0,0,1,0
+36,Male,Maharashtra,0,0,None,3,0,25,0,1,1,0
+19,Male,Karnataka,0,0,Covishield,2,0,179,0,0,0,0
+70,Male,Bihar,1,2,None,1,0,141,0,1,0,0
+61,Female,Delhi,1,1,Sputnik V,1,0,231,0,1,1,0
+49,Male,Karnataka,0,0,Sputnik V,3,0,300,0,0,1,1
+87,Female,Uttar Pradesh,1,1,Covishield,0,0,163,0,1,0,0
+49,Male,Uttar Pradesh,0,0,None,2,0,311,0,0,0,1
+85,Male,Uttar Pradesh,1,0,Covishield,1,0,130,0,0,0,0
+72,Male,Uttar Pradesh,1,2,Covaxin,1,1,246,0,0,0,0
+73,Female,Bihar,1,0,Covishield,0,0,297,0,0,0,0
+34,Male,Delhi,0,0,Covishield,0,0,172,1,1,0,0
+55,Female,Tamil Nadu,1,2,Sputnik V,2,0,64,0,0,1,0
+41,Female,Maharashtra,1,1,Covishield,3,0,31,0,0,0,0
+86,Male,Bihar,0,0,None,0,0,47,1,0,1,0
+87,Male,Bihar,1,2,Sputnik V,3,0,130,0,1,0,0
+28,Male,Tamil Nadu,0,0,Covishield,2,0,352,0,1,0,0
+33,Female,Tamil Nadu,1,2,Covaxin,3,0,333,0,1,0,0
+76,Male,Maharashtra,0,1,Covishield,1,0,110,1,0,0,0
+87,Female,Maharashtra,1,1,Covishield,3,0,69,1,0,1,0
+20,Female,Tamil Nadu,0,2,Covishield,2,0,58,0,0,1,0
+37,Male,Uttar Pradesh,0,2,Sputnik V,2,0,106,0,0,0,0
+76,Male,Bihar,0,2,None,2,0,300,0,0,0,1
+53,Female,Karnataka,0,1,Covaxin,3,0,330,0,0,0,1
+36,Female,Maharashtra,0,0,Covishield,1,0,256,0,0,1,0
+84,Female,Maharashtra,0,1,None,0,0,312,0,1,1,0
+36,Male,Tamil Nadu,0,2,None,1,0,171,0,0,0,0
+37,Female,Delhi,0,2,Sputnik V,3,0,162,0,0,1,0
+88,Male,Karnataka,0,1,Covaxin,3,0,286,0,0,1,0
+69,Female,Karnataka,1,2,Sputnik V,0,0,71,0,1,0,0
+50,Female,Maharashtra,0,1,None,3,0,255,0,1,0,0
+57,Male,Uttar Pradesh,1,2,None,2,0,55,1,1,1,0
+56,Female,Delhi,1,0,None,2,0,323,0,0,1,0
+18,Male,Karnataka,1,0,Sputnik V,2,0,3,0,1,0,0
+28,Male,Maharashtra,0,2,Covaxin,2,0,26,0,0,0,0
+74,Female,Karnataka,1,1,Covishield,2,0,313,0,0,0,0
+67,Male,Delhi,0,0,Sputnik V,3,0,126,1,1,0,0
+40,Male,Delhi,0,1,None,0,0,53,0,0,1,0
+48,Female,Bihar,0,2,Sputnik V,0,0,198,0,0,0,0
+59,Male,Tamil Nadu,1,1,None,2,0,299,0,0,1,0
+24,Male,Tamil Nadu,0,0,Covishield,3,0,188,0,0,1,0
+33,Male,Maharashtra,0,1,Covishield,1,0,186,0,1,0,0
+77,Female,Delhi,1,1,Covaxin,1,0,305,0,0,0,0
+19,Male,Bihar,1,2,None,3,0,298,0,0,0,0
+18,Female,Bihar,0,2,Covaxin,2,0,204,0,0,1,1
+65,Female,Karnataka,0,2,Covaxin,0,0,11,0,0,0,0
+29,Male,Karnataka,1,0,Covishield,3,0,359,1,0,0,0
+86,Male,Bihar,0,0,Sputnik V,1,0,354,0,0,1,0
+54,Male,Karnataka,0,2,Sputnik V,1,0,146,1,0,0,0
+49,Female,Delhi,0,2,Covaxin,1,0,85,0,0,1,0
+26,Male,Uttar Pradesh,1,0,Covishield,2,0,100,0,1,1,1
+36,Male,Delhi,1,0,None,1,0,104,0,0,0,0
+65,Male,Bihar,1,0,Sputnik V,3,0,46,0,0,0,1
+20,Male,Bihar,1,0,Covaxin,3,0,44,0,0,1,1
+37,Male,Delhi,0,2,Sputnik V,1,0,278,0,0,1,0
+41,Female,Karnataka,0,0,Sputnik V,3,0,181,0,1,0,1
+71,Female,Karnataka,0,2,None,1,0,187,0,1,0,0
+50,Male,Tamil Nadu,0,1,Covishield,1,0,114,0,0,0,0
+41,Male,Bihar,0,1,None,0,0,255,0,1,1,0
+89,Male,Maharashtra,1,0,Covishield,2,0,30,0,0,0,0
+53,Male,Tamil Nadu,1,1,Sputnik V,2,0,264,0,0,0,0
+55,Female,Karnataka,1,1,Covaxin,0,0,98,0,0,1,0
+42,Male,Delhi,0,1,None,0,0,313,0,0,0,0
+35,Female,Karnataka,1,0,Covishield,2,0,329,0,0,0,0
+83,Female,Delhi,1,0,Sputnik V,1,0,115,0,1,0,0
+71,Male,Tamil Nadu,0,1,Covishield,1,0,276,0,0,1,1
+52,Female,Bihar,1,2,Covishield,2,0,281,0,1,0,0
+78,Female,Karnataka,0,1,Covishield,1,0,275,0,1,1,0
+58,Female,Delhi,0,0,Sputnik V,0,0,261,0,0,1,0
+50,Female,Bihar,0,0,Covaxin,1,0,331,0,0,0,0
+85,Male,Maharashtra,0,0,Covaxin,1,0,207,0,0,0,0
+50,Male,Delhi,0,1,Covaxin,3,0,328,0,1,0,0
+31,Female,Tamil Nadu,1,2,Covishield,3,0,211,0,0,0,0
+38,Male,Maharashtra,1,0,Sputnik V,3,0,215,0,0,1,0
+65,Male,Maharashtra,1,0,Covishield,1,0,40,1,0,1,1
+37,Male,Uttar Pradesh,1,1,Covaxin,2,0,26,0,0,0,0
+25,Male,Karnataka,0,2,Covaxin,0,0,27,0,0,0,0
+24,Male,Delhi,1,1,Sputnik V,1,0,190,0,0,0,0
+84,Female,Maharashtra,0,0,Covishield,2,0,83,0,0,1,0
+34,Male,Uttar Pradesh,0,2,None,1,0,170,0,0,0,0
+50,Male,Tamil Nadu,0,2,None,0,1,167,0,0,0,0
+65,Male,Bihar,0,0,Covaxin,1,0,188,1,0,0,0
+76,Male,Delhi,0,2,Sputnik V,0,0,169,0,0,0,0
+39,Female,Maharashtra,0,2,Covishield,1,0,289,0,0,0,0
+47,Female,Karnataka,0,1,Covishield,0,0,229,1,0,0,0
+55,Female,Uttar Pradesh,1,0,Covaxin,1,0,97,1,0,0,0
+68,Female,Maharashtra,0,0,Covaxin,0,0,16,0,0,1,0
+71,Male,Karnataka,0,0,Covishield,3,0,279,1,0,0,0
+25,Female,Maharashtra,0,0,Covishield,1,0,135,0,0,0,0
+44,Male,Delhi,1,0,Covaxin,1,0,26,1,0,0,0
+44,Male,Delhi,0,2,Covishield,2,0,352,0,0,0,0
+38,Male,Delhi,0,1,None,2,0,12,0,1,0,0
+47,Male,Tamil Nadu,0,0,Covaxin,0,0,72,0,1,0,0
+45,Male,Tamil Nadu,0,1,Covishield,1,0,133,0,1,0,0
+81,Female,Uttar Pradesh,0,1,Covaxin,0,0,106,0,1,0,1
+86,Female,Delhi,0,2,Sputnik V,3,0,220,0,0,0,0
+78,Female,Karnataka,0,0,Covaxin,2,0,177,0,0,0,0
+65,Female,Maharashtra,0,2,Covaxin,0,0,282,0,0,1,1
+36,Male,Bihar,0,0,Sputnik V,0,0,133,0,0,0,0
+21,Female,Karnataka,1,2,None,2,0,22,0,0,0,0
+52,Male,Tamil Nadu,0,1,Covishield,1,0,269,0,1,0,0
+81,Female,Tamil Nadu,0,0,Sputnik V,0,0,161,0,0,0,0
+66,Male,Karnataka,0,1,Covaxin,2,0,107,1,0,0,0
+34,Male,Tamil Nadu,1,1,Covishield,1,0,279,0,0,0,0
+61,Female,Delhi,0,2,Sputnik V,3,0,353,0,0,1,0
+47,Male,Uttar Pradesh,0,0,Covishield,2,0,235,0,0,0,0
+63,Male,Maharashtra,1,1,Covishield,0,0,18,0,1,0,0
+23,Female,Uttar Pradesh,0,2,Sputnik V,3,0,242,0,0,1,0
+54,Male,Maharashtra,0,0,Covishield,1,1,117,0,1,1,0
+41,Female,Maharashtra,0,0,None,1,0,286,0,0,0,0
+63,Female,Uttar Pradesh,1,1,Sputnik V,2,0,282,0,1,0,0
+70,Female,Karnataka,0,0,None,2,0,144,0,0,0,0
+77,Male,Maharashtra,1,1,Covaxin,2,0,205,0,0,0,0
+80,Male,Uttar Pradesh,1,0,Covishield,1,0,39,1,0,0,0
+49,Male,Maharashtra,0,2,Covaxin,3,0,154,0,1,0,1
+50,Female,Bihar,0,1,Covaxin,1,0,176,0,1,1,0
+84,Male,Karnataka,0,1,Covishield,0,0,241,0,0,0,0
+35,Female,Delhi,0,0,Sputnik V,1,0,134,0,0,0,0
+42,Female,Maharashtra,0,0,Covishield,0,0,46,0,1,0,0
+71,Male,Bihar,1,1,Covaxin,3,0,50,0,0,1,0
+75,Female,Delhi,1,0,Covaxin,2,0,166,1,0,0,0
+84,Male,Delhi,1,2,Sputnik V,2,0,106,0,0,0,1
+63,Male,Maharashtra,0,0,Covishield,1,0,216,0,0,0,0
+41,Male,Uttar Pradesh,1,2,Covaxin,2,0,146,0,1,0,0
+49,Male,Maharashtra,1,2,None,3,0,72,0,1,0,0
+64,Male,Bihar,1,2,Covaxin,2,0,330,0,0,0,0
+40,Female,Delhi,0,2,Covaxin,1,0,273,0,0,0,0
+83,Female,Maharashtra,1,2,Sputnik V,3,0,247,0,1,0,1
+44,Female,Uttar Pradesh,0,0,None,0,0,186,0,0,0,1
+19,Male,Maharashtra,0,2,Covaxin,1,0,70,0,1,1,0
+34,Male,Karnataka,0,0,Covaxin,0,0,150,0,0,0,0
+50,Male,Uttar Pradesh,1,2,None,3,0,246,0,0,0,1
+26,Female,Bihar,1,1,Covishield,1,0,262,0,1,0,0
+60,Male,Delhi,0,2,Covishield,1,0,26,0,0,0,0
+65,Female,Maharashtra,0,1,Covaxin,3,0,140,0,0,1,0
+56,Female,Uttar Pradesh,0,2,Covaxin,2,0,99,0,0,0,0
+59,Male,Karnataka,0,2,Covishield,1,0,278,0,0,0,0
+43,Male,Uttar Pradesh,0,2,Sputnik V,1,0,51,0,0,0,1
+67,Female,Tamil Nadu,0,1,None,0,0,151,0,1,1,0
+42,Male,Karnataka,1,1,None,2,0,104,0,1,1,0
+41,Female,Bihar,0,2,Sputnik V,0,0,89,0,0,0,0
+30,Male,Delhi,0,0,Sputnik V,0,0,141,0,0,0,1
+77,Male,Bihar,0,2,Sputnik V,2,0,213,0,0,0,0
+24,Female,Maharashtra,1,1,Sputnik V,2,0,233,0,0,0,0
+74,Male,Uttar Pradesh,1,2,Sputnik V,3,0,183,1,0,1,0
+53,Female,Tamil Nadu,1,1,Sputnik V,2,0,251,0,1,0,0
+62,Male,Karnataka,0,1,None,1,0,9,0,0,0,0
+37,Female,Karnataka,0,1,Sputnik V,2,0,79,1,1,1,0
+82,Female,Uttar Pradesh,0,2,Covishield,3,0,52,0,0,1,0
+25,Male,Tamil Nadu,1,1,Sputnik V,3,0,269,0,0,0,1
+33,Female,Uttar Pradesh,1,1,Sputnik V,3,0,226,0,0,1,0
+31,Male,Maharashtra,1,2,None,2,0,51,0,0,0,0
+32,Male,Bihar,1,1,None,2,0,186,1,0,1,0
+83,Male,Karnataka,1,2,Sputnik V,0,0,34,0,1,1,0
+49,Female,Maharashtra,0,1,None,0,0,291,0,0,0,0
+80,Female,Bihar,1,0,Covaxin,1,0,230,0,1,1,0
+68,Male,Maharashtra,0,0,None,0,0,131,0,0,1,0
+42,Male,Tamil Nadu,0,1,None,1,0,120,0,1,0,0
+75,Female,Karnataka,0,0,None,3,0,326,0,0,0,0
+80,Male,Uttar Pradesh,0,2,None,0,0,247,0,1,1,0
+79,Male,Uttar Pradesh,0,0,Covishield,2,0,192,0,0,0,0
+39,Female,Bihar,0,1,Covishield,0,0,323,0,1,0,0
+75,Male,Delhi,0,1,Covishield,1,0,210,0,1,1,0
+75,Female,Tamil Nadu,0,2,Sputnik V,0,0,103,0,0,1,1
+66,Male,Bihar,0,1,Sputnik V,3,0,329,0,0,0,1
+69,Female,Delhi,0,2,Covaxin,2,0,133,0,0,0,0
+59,Male,Maharashtra,0,0,Covishield,1,0,323,1,1,0,0
+87,Male,Tamil Nadu,0,0,Sputnik V,2,0,139,0,0,0,0
+32,Female,Maharashtra,1,2,None,2,0,121,0,0,0,0
+71,Male,Karnataka,1,2,None,1,0,94,0,0,1,0
+77,Female,Tamil Nadu,1,1,Covishield,2,0,129,1,0,0,0
+25,Male,Delhi,1,0,Covaxin,2,0,91,0,1,0,0
+70,Female,Karnataka,0,2,Covaxin,0,0,92,0,0,0,0
+77,Female,Uttar Pradesh,1,0,None,2,0,63,0,0,1,0
+22,Female,Delhi,0,2,Covaxin,2,0,29,1,1,0,0
+85,Female,Bihar,0,0,Covishield,2,0,210,0,0,0,0
+23,Male,Uttar Pradesh,1,1,None,2,0,12,0,0,0,0
+64,Male,Uttar Pradesh,0,0,Sputnik V,1,0,333,1,0,0,0
+72,Female,Bihar,1,0,Sputnik V,3,0,297,0,0,0,0
+57,Female,Tamil Nadu,1,0,Covaxin,0,0,130,0,0,0,0
+69,Female,Uttar Pradesh,1,0,None,2,0,293,0,1,0,1
+33,Male,Delhi,1,0,None,2,0,173,1,0,0,0
+30,Male,Karnataka,0,1,Sputnik V,1,0,208,0,0,0,0
+47,Male,Uttar Pradesh,0,2,None,3,0,24,1,0,0,0
+36,Male,Delhi,0,0,None,2,0,99,0,0,0,0
+34,Female,Maharashtra,0,1,None,1,0,356,0,1,0,0
+80,Female,Delhi,1,0,Covaxin,0,0,139,1,0,0,0
+36,Female,Karnataka,1,0,None,0,0,314,0,0,0,1
+75,Male,Delhi,1,2,Covishield,2,0,174,0,0,0,0
+72,Male,Bihar,0,0,Covaxin,2,0,29,0,0,0,0
+79,Male,Karnataka,0,1,None,3,0,143,0,0,0,0
+40,Female,Tamil Nadu,0,1,None,3,0,316,0,0,0,0
+26,Female,Maharashtra,0,2,Covishield,2,0,351,0,0,1,0
+29,Male,Bihar,1,0,Covaxin,1,0,42,0,1,1,0
+18,Female,Tamil Nadu,0,1,Sputnik V,3,0,299,0,0,0,0
+75,Male,Delhi,0,0,Sputnik V,2,0,208,0,1,0,1
+18,Male,Karnataka,0,0,Covaxin,3,0,330,1,1,0,0
+51,Female,Maharashtra,1,0,None,2,0,192,0,0,0,0
+65,Male,Bihar,1,2,None,0,0,160,0,0,0,1
+18,Female,Tamil Nadu,0,0,Sputnik V,2,0,64,0,0,1,0
+33,Male,Tamil Nadu,0,1,Sputnik V,0,0,243,0,0,0,1
+78,Female,Maharashtra,0,0,Sputnik V,3,0,258,0,1,1,1
+81,Female,Delhi,0,1,Covishield,2,0,152,0,0,0,1
+80,Female,Maharashtra,1,0,Sputnik V,3,0,215,1,0,1,0
+86,Male,Tamil Nadu,1,1,Covishield,0,0,322,1,0,1,0
+39,Male,Uttar Pradesh,0,1,Covaxin,2,0,166,0,0,0,0
+84,Female,Bihar,0,0,None,3,0,31,1,0,0,1
+43,Female,Maharashtra,1,0,Sputnik V,0,0,232,0,1,0,0
+33,Male,Tamil Nadu,0,1,None,3,0,282,0,0,0,0
+68,Male,Delhi,1,2,None,1,0,29,1,1,0,0
+74,Male,Tamil Nadu,0,0,Sputnik V,0,0,195,0,0,0,0
+46,Female,Delhi,0,2,Sputnik V,0,0,334,0,0,0,0
+86,Male,Maharashtra,0,0,Covaxin,0,0,256,0,0,1,0
+64,Male,Delhi,0,0,Covishield,2,0,281,0,0,0,0
+79,Female,Karnataka,1,0,Covishield,2,0,304,0,0,1,0
+86,Male,Karnataka,0,0,None,2,0,321,0,1,0,1
+33,Male,Karnataka,0,2,Sputnik V,1,0,323,1,1,1,0
+65,Male,Uttar Pradesh,0,0,Covaxin,1,0,346,0,0,0,0
+56,Female,Maharashtra,0,1,Covaxin,0,0,294,0,0,0,0
+50,Female,Tamil Nadu,0,1,Covaxin,1,0,87,0,0,1,0
+40,Female,Tamil Nadu,0,2,Covaxin,3,0,149,0,1,0,0
+27,Female,Uttar Pradesh,1,0,Covaxin,0,0,249,0,0,1,1
+86,Female,Delhi,0,1,Covishield,0,0,321,0,1,0,0
+51,Female,Uttar Pradesh,0,2,Covishield,3,0,283,1,0,0,0
+69,Female,Delhi,1,0,Covishield,0,1,362,1,0,0,0
+27,Male,Delhi,0,1,Sputnik V,1,0,198,0,1,1,0
+36,Male,Bihar,1,1,None,2,0,44,1,0,0,0
+75,Female,Tamil Nadu,0,2,Covaxin,3,0,356,0,0,1,0
+18,Male,Karnataka,1,0,Sputnik V,1,0,28,0,0,1,0
+86,Male,Delhi,1,0,Covaxin,3,0,17,0,0,0,0
+21,Female,Bihar,1,1,Covishield,3,0,127,0,0,0,0
+33,Male,Tamil Nadu,1,1,Sputnik V,0,0,168,0,0,1,0
+41,Male,Karnataka,0,1,Covishield,0,0,244,0,1,0,0
+19,Male,Delhi,1,0,Covaxin,1,0,76,0,0,0,0
+49,Male,Delhi,0,2,Covaxin,3,0,231,1,1,0,1
+41,Male,Uttar Pradesh,0,2,None,0,0,204,0,0,0,0
+29,Female,Uttar Pradesh,0,0,Covaxin,0,0,248,0,0,0,0
+67,Female,Tamil Nadu,0,2,Covishield,3,0,302,0,0,0,1
+52,Female,Karnataka,0,1,Covaxin,1,0,214,0,0,1,0
+50,Male,Delhi,0,2,None,1,0,215,0,0,0,0
+50,Female,Tamil Nadu,0,2,None,3,0,158,0,1,0,0
+78,Male,Tamil Nadu,1,2,Covishield,1,0,69,0,0,1,0
+68,Male,Maharashtra,1,1,Sputnik V,0,0,85,0,0,1,0
+60,Male,Uttar Pradesh,0,0,Covaxin,3,0,267,0,0,1,0
+29,Male,Karnataka,0,1,None,0,0,69,0,1,0,0
+84,Female,Delhi,0,0,Covaxin,2,1,99,0,1,1,0
+82,Female,Tamil Nadu,0,0,Covaxin,2,0,347,0,0,0,1
+50,Male,Delhi,0,0,Sputnik V,1,0,216,0,0,0,0
+57,Female,Maharashtra,0,2,None,2,0,161,0,0,0,0
+60,Male,Karnataka,0,2,Covaxin,0,0,94,0,0,0,1
+61,Female,Tamil Nadu,1,0,None,2,0,174,0,0,1,0
+46,Female,Delhi,0,0,Covishield,0,0,165,0,0,0,0
+30,Male,Uttar Pradesh,0,2,Covishield,1,0,115,0,0,1,1
+29,Female,Maharashtra,0,1,Covaxin,1,0,220,0,0,1,0
+63,Male,Karnataka,0,0,None,0,0,31,0,0,0,0
+19,Female,Maharashtra,0,1,Covaxin,2,0,11,1,1,0,0
+52,Male,Uttar Pradesh,1,2,None,1,0,343,1,1,0,0
+25,Male,Karnataka,0,0,None,3,0,130,0,0,0,0
+43,Female,Maharashtra,0,1,Sputnik V,1,0,105,0,0,0,0
+51,Female,Bihar,1,1,Sputnik V,2,0,27,0,0,1,0
+24,Male,Uttar Pradesh,1,1,Sputnik V,3,0,227,1,0,0,0
+85,Female,Uttar Pradesh,1,2,Covaxin,2,0,2,1,1,0,0
+75,Female,Uttar Pradesh,0,2,Sputnik V,0,0,359,0,0,1,0
+46,Male,Bihar,1,1,Sputnik V,3,0,101,0,1,0,0
+53,Male,Bihar,0,1,Covishield,2,0,21,0,1,1,0
+38,Female,Delhi,0,2,None,3,0,58,0,0,0,0
+53,Male,Tamil Nadu,0,1,None,2,0,180,0,0,0,0
+27,Male,Maharashtra,0,1,Sputnik V,3,0,341,0,0,0,0
+41,Male,Delhi,0,2,None,2,0,349,1,0,0,0
+81,Female,Maharashtra,0,1,Covishield,0,0,20,0,0,0,1
+66,Female,Tamil Nadu,1,1,Covishield,3,0,255,0,0,1,0
+53,Male,Bihar,1,1,Sputnik V,3,0,317,1,1,0,1
+41,Female,Tamil Nadu,1,2,Covishield,3,0,38,1,0,1,0
+40,Male,Bihar,0,1,None,3,0,148,0,0,0,0
+79,Female,Tamil Nadu,1,2,Covaxin,0,0,25,0,0,0,1
+54,Male,Delhi,0,2,None,3,0,121,0,0,0,0
+29,Male,Karnataka,1,0,Covaxin,1,0,26,0,0,1,0
+72,Female,Delhi,0,0,Sputnik V,0,0,169,1,1,0,1
+30,Male,Maharashtra,1,1,Covaxin,1,0,323,1,0,0,1
+40,Female,Delhi,0,2,Covishield,3,0,225,0,0,1,1
+47,Female,Uttar Pradesh,1,0,None,2,0,1,0,0,0,0
+34,Male,Maharashtra,1,1,Covaxin,1,0,307,0,0,1,0
+79,Male,Tamil Nadu,0,0,None,3,0,261,1,1,0,0
+30,Female,Maharashtra,0,0,Sputnik V,1,0,13,0,0,1,0
+76,Male,Karnataka,1,2,Sputnik V,3,0,48,0,1,1,1
+36,Male,Bihar,0,2,Covishield,3,0,313,0,0,1,0
+66,Male,Tamil Nadu,1,0,Sputnik V,3,0,291,0,0,0,0
+29,Male,Maharashtra,0,0,Covaxin,2,0,332,0,0,0,0
+78,Male,Tamil Nadu,0,2,Sputnik V,1,0,94,0,0,1,0
+36,Female,Tamil Nadu,0,1,Covishield,0,0,261,1,0,0,1
+26,Female,Tamil Nadu,0,2,None,0,0,278,1,1,0,0
+88,Male,Bihar,1,0,None,0,0,359,0,0,1,0
+45,Male,Delhi,0,1,Sputnik V,0,0,205,0,0,0,1
+69,Male,Tamil Nadu,0,0,Covaxin,3,0,185,0,0,0,0
+33,Female,Uttar Pradesh,0,1,Covishield,1,0,175,0,0,0,0
+86,Male,Karnataka,0,0,Covaxin,1,0,309,0,0,0,0
+29,Female,Bihar,1,1,Covishield,2,0,69,1,0,0,0
+42,Female,Maharashtra,1,1,Sputnik V,1,0,104,0,0,0,0
+69,Female,Bihar,0,0,Covishield,1,1,246,0,0,0,1
+70,Male,Maharashtra,1,1,Covishield,1,0,161,1,0,1,0
+40,Female,Bihar,1,2,Sputnik V,2,0,200,1,0,1,1
+33,Male,Maharashtra,0,0,Covaxin,0,0,216,0,0,0,1
+74,Female,Tamil Nadu,1,2,Sputnik V,1,0,212,0,0,0,0
+56,Male,Delhi,0,0,Covishield,2,0,16,0,1,1,0
+70,Female,Maharashtra,0,1,Sputnik V,2,1,332,0,0,0,0
+59,Male,Maharashtra,1,1,Covishield,3,0,205,0,0,0,0
+75,Female,Uttar Pradesh,0,1,Sputnik V,2,1,39,0,0,0,1
+56,Male,Maharashtra,1,0,None,0,0,89,1,0,0,0
+31,Male,Uttar Pradesh,1,2,None,1,0,256,0,1,1,0
+22,Male,Karnataka,0,2,Sputnik V,2,0,254,0,0,0,0
+52,Male,Tamil Nadu,1,0,Covaxin,0,0,216,0,1,1,0
+35,Female,Uttar Pradesh,0,0,Covishield,2,0,303,0,1,0,0
+26,Female,Delhi,0,2,None,2,0,172,1,0,1,0
+75,Male,Tamil Nadu,1,2,Covaxin,2,0,137,0,0,0,0
+34,Female,Uttar Pradesh,1,2,Covishield,2,0,178,0,0,0,0
+24,Male,Tamil Nadu,0,2,None,2,0,77,0,0,0,0
+63,Male,Tamil Nadu,0,0,None,0,0,188,0,0,0,0
+30,Female,Tamil Nadu,1,0,Sputnik V,1,0,15,0,0,0,0
+57,Male,Karnataka,1,1,Covishield,1,0,292,0,0,0,0
+59,Male,Delhi,1,2,Covaxin,1,1,319,0,0,0,0
+26,Female,Bihar,0,1,Covaxin,1,0,325,0,0,0,0
+67,Male,Bihar,0,0,Covaxin,0,0,214,0,1,0,1
+44,Male,Uttar Pradesh,0,0,Covishield,3,0,208,1,0,1,0
+83,Male,Tamil Nadu,1,1,Covaxin,3,0,169,1,1,1,0
+22,Male,Uttar Pradesh,0,2,Covaxin,0,0,330,0,0,1,1
+46,Female,Karnataka,0,2,Covaxin,0,0,280,0,0,1,1
+54,Female,Karnataka,1,2,Sputnik V,2,0,305,0,0,0,0
+55,Female,Maharashtra,0,2,Sputnik V,2,0,146,0,0,0,0
+25,Male,Karnataka,1,1,Covishield,2,0,263,0,0,0,0
+82,Male,Maharashtra,1,1,Covishield,1,0,4,1,0,1,0
+34,Female,Delhi,1,0,Covaxin,2,1,90,1,1,1,1
+88,Male,Uttar Pradesh,0,2,Sputnik V,3,0,60,0,0,0,0
+62,Male,Delhi,0,2,None,1,0,311,0,0,0,0
+21,Male,Karnataka,1,2,None,2,0,16,1,1,0,0
+53,Male,Delhi,1,1,Covaxin,1,0,227,0,1,0,0
+87,Female,Delhi,1,2,Covaxin,3,0,29,0,0,0,0
+48,Female,Delhi,0,1,Sputnik V,2,0,151,0,0,0,1
+36,Female,Karnataka,1,2,Sputnik V,3,1,245,0,1,1,0
+78,Male,Tamil Nadu,1,2,Sputnik V,3,0,270,0,0,0,0
+71,Female,Delhi,1,0,Covishield,3,0,79,0,0,1,0
+56,Female,Maharashtra,1,2,Covishield,2,0,289,0,0,1,0
+36,Male,Karnataka,1,2,Covaxin,0,0,153,0,1,1,0
+56,Male,Delhi,1,0,Covishield,2,0,277,0,0,0,1
+84,Female,Tamil Nadu,0,1,Sputnik V,3,0,279,0,1,0,0
+62,Female,Karnataka,0,1,Sputnik V,2,0,57,0,0,0,1
+30,Female,Bihar,0,2,Covishield,3,0,186,0,1,0,0
+75,Female,Tamil Nadu,0,1,None,0,0,93,1,0,0,0
+37,Male,Maharashtra,0,2,Covaxin,1,0,276,0,0,1,0
+89,Female,Delhi,0,0,None,0,0,158,0,1,1,0
+78,Female,Bihar,0,0,Covaxin,0,0,275,1,0,1,1
+56,Male,Bihar,0,2,None,1,0,181,0,0,1,0
+18,Female,Karnataka,1,0,Covishield,2,0,359,0,0,0,0
+20,Male,Bihar,1,0,Covaxin,1,0,77,0,0,0,0
+79,Male,Maharashtra,0,2,Covaxin,2,0,151,0,0,0,1
+80,Male,Maharashtra,1,2,Covaxin,2,0,238,0,0,0,0
+42,Female,Uttar Pradesh,0,0,Sputnik V,3,0,289,1,0,1,0
+73,Female,Maharashtra,0,1,Sputnik V,3,0,231,0,0,0,0
+50,Male,Tamil Nadu,0,1,None,1,0,18,0,0,0,0
+55,Female,Bihar,0,2,Covishield,0,0,73,1,0,0,0
+23,Female,Maharashtra,1,2,Sputnik V,1,0,189,0,1,0,1
+75,Male,Karnataka,1,1,Covaxin,2,0,17,0,0,0,0
+61,Male,Uttar Pradesh,0,0,Sputnik V,3,1,19,0,0,1,0
+62,Female,Bihar,0,1,Covishield,1,0,219,0,1,0,0
+49,Male,Uttar Pradesh,0,1,Sputnik V,1,0,326,0,0,0,0
+62,Female,Bihar,0,1,Covaxin,3,0,120,0,1,0,0
+78,Female,Karnataka,0,1,None,3,0,101,0,1,0,1
+64,Female,Uttar Pradesh,0,2,Covaxin,3,0,34,0,1,0,1
+38,Female,Delhi,1,2,Covishield,2,0,84,0,0,1,1
+53,Male,Tamil Nadu,1,0,None,3,0,196,0,1,0,1
+36,Male,Tamil Nadu,0,0,Sputnik V,0,0,330,0,1,0,0
+37,Male,Bihar,1,0,Sputnik V,1,0,202,0,0,0,0
+74,Male,Delhi,0,0,Sputnik V,3,0,344,0,0,1,0
+35,Female,Uttar Pradesh,0,1,None,3,0,341,1,0,0,0
+64,Female,Delhi,0,2,Covaxin,2,0,11,0,0,0,0
+66,Male,Delhi,1,2,None,2,0,347,0,0,0,0
+31,Female,Uttar Pradesh,1,0,None,1,0,218,0,0,1,0
+32,Female,Karnataka,1,0,Covishield,0,0,253,0,0,0,1
+48,Female,Delhi,0,1,None,1,0,222,0,0,0,0
+18,Male,Delhi,1,1,Sputnik V,3,0,80,0,0,0,1
+71,Male,Karnataka,0,0,Covaxin,0,0,7,1,0,0,0
+20,Male,Delhi,1,2,Covaxin,0,0,272,0,1,1,0
+33,Female,Delhi,0,2,Covaxin,0,0,227,0,0,1,0
+74,Male,Delhi,0,2,Sputnik V,0,0,16,0,0,0,0
+29,Male,Tamil Nadu,0,0,Sputnik V,1,0,12,0,0,1,0
+33,Male,Maharashtra,1,2,Sputnik V,2,0,291,0,0,1,0
+89,Male,Karnataka,0,1,Sputnik V,2,0,241,0,1,1,0
+41,Male,Delhi,1,1,Sputnik V,3,0,21,1,1,0,0
+45,Male,Tamil Nadu,0,0,None,2,0,178,0,0,0,0
+25,Female,Karnataka,1,1,Sputnik V,2,0,228,0,1,0,0
+53,Female,Bihar,1,0,Sputnik V,2,0,273,0,0,1,0
+25,Male,Bihar,1,2,Sputnik V,2,0,288,0,0,0,0
+75,Male,Delhi,0,2,Sputnik V,3,1,297,0,0,0,0
+77,Female,Tamil Nadu,0,2,Covaxin,1,0,134,0,1,0,0
+67,Female,Tamil Nadu,0,1,Sputnik V,0,0,283,0,0,0,0
+45,Male,Karnataka,1,0,None,2,0,153,0,0,0,0
+58,Male,Karnataka,0,2,None,1,0,66,0,1,1,0
+81,Male,Tamil Nadu,0,0,None,2,0,137,0,0,0,0
+44,Male,Karnataka,0,2,Covishield,2,0,92,1,0,1,0
+80,Female,Tamil Nadu,0,1,Covaxin,0,0,317,0,1,0,0
+34,Male,Maharashtra,1,1,Sputnik V,0,0,259,0,0,0,0
+50,Male,Tamil Nadu,0,0,Covishield,0,0,103,1,0,0,0
+46,Male,Bihar,1,1,Sputnik V,2,0,55,0,0,0,0
+30,Male,Karnataka,0,1,Covishield,2,0,257,0,0,0,0
+63,Female,Tamil Nadu,0,0,Covishield,2,0,101,0,0,1,0
+52,Female,Tamil Nadu,0,2,None,0,0,198,0,0,0,0
+23,Female,Karnataka,0,1,None,3,0,301,0,0,1,0
+86,Male,Maharashtra,0,0,Covishield,1,0,226,0,0,0,0
+64,Male,Maharashtra,1,1,None,3,0,237,0,1,0,0
+42,Female,Karnataka,0,1,Covishield,2,0,26,0,1,0,0
+83,Male,Uttar Pradesh,1,1,Covaxin,2,0,121,0,0,0,1
+27,Male,Karnataka,0,1,None,3,1,182,0,0,0,1
+73,Female,Karnataka,0,0,None,2,0,199,0,1,0,0
+47,Female,Maharashtra,1,0,None,1,0,302,0,0,0,0
+22,Female,Maharashtra,0,0,Covaxin,2,0,255,0,0,0,0
+50,Female,Karnataka,0,1,Covishield,1,0,122,0,1,0,0
+82,Male,Karnataka,0,1,Sputnik V,3,0,31,0,1,1,1
+35,Male,Karnataka,0,1,None,3,0,315,0,1,0,1
+66,Female,Maharashtra,1,0,Covishield,2,0,285,0,1,0,0
+28,Male,Karnataka,0,1,Covaxin,1,0,106,0,0,1,0
+43,Female,Karnataka,1,2,Sputnik V,2,0,224,0,0,0,0
+80,Female,Delhi,1,1,None,0,0,273,1,0,0,0
+76,Male,Uttar Pradesh,0,2,Covaxin,0,0,232,0,0,0,1
+44,Female,Bihar,1,1,Covaxin,0,0,256,0,0,0,1
+66,Male,Uttar Pradesh,0,0,Sputnik V,0,0,24,0,1,1,0
+50,Male,Delhi,1,1,Covishield,2,0,109,0,1,0,0
+18,Male,Bihar,0,2,None,0,0,191,0,0,1,0
+38,Male,Karnataka,1,2,None,1,1,347,0,1,1,0
+72,Female,Delhi,0,1,Covishield,3,0,25,0,1,0,1
+23,Male,Karnataka,0,2,Covishield,3,0,187,1,0,0,0
+86,Female,Maharashtra,1,2,Covishield,0,0,288,0,0,0,0
+22,Female,Tamil Nadu,1,0,Sputnik V,0,0,116,0,0,0,0
+20,Female,Delhi,0,1,Sputnik V,0,0,338,0,0,0,1
+70,Female,Maharashtra,0,1,None,2,0,37,1,0,0,0
+40,Male,Delhi,1,1,Sputnik V,3,0,282,0,0,0,1
+70,Male,Delhi,1,2,Covaxin,0,0,137,0,0,0,1
+54,Female,Maharashtra,1,1,None,1,0,227,1,0,1,1
+34,Female,Bihar,1,1,Sputnik V,0,0,320,0,1,0,0
+18,Male,Uttar Pradesh,1,0,Covishield,3,0,328,0,0,1,0
+68,Female,Karnataka,1,0,Covaxin,0,0,182,0,1,1,0
+62,Male,Delhi,0,0,Covishield,3,0,362,0,0,0,0
+21,Female,Karnataka,0,2,None,0,0,86,0,0,1,0
+79,Male,Tamil Nadu,1,1,Covishield,1,0,53,0,1,0,0
+82,Female,Maharashtra,1,0,Sputnik V,0,1,348,0,0,0,0
+49,Female,Karnataka,0,0,Sputnik V,1,0,355,0,0,0,1
+51,Male,Maharashtra,0,0,None,1,0,235,0,1,0,0
+89,Female,Karnataka,1,1,Covishield,0,0,267,0,0,0,0
+56,Female,Uttar Pradesh,0,1,None,1,0,287,0,0,0,0
+43,Male,Uttar Pradesh,0,1,Covishield,2,0,100,0,0,0,0
+51,Female,Uttar Pradesh,0,2,Covaxin,0,0,87,0,1,0,1
+71,Male,Uttar Pradesh,0,2,Sputnik V,0,0,15,0,0,0,0
+20,Male,Uttar Pradesh,0,0,None,1,0,101,0,0,0,1
+67,Female,Uttar Pradesh,0,1,Covaxin,1,0,165,0,0,0,0
+29,Female,Maharashtra,0,0,Covaxin,0,0,29,0,0,0,0
+82,Female,Delhi,1,1,None,2,0,114,1,1,0,0
+71,Female,Karnataka,0,1,None,1,0,107,0,0,0,0
+22,Female,Uttar Pradesh,1,1,Covaxin,1,0,364,0,0,1,0
+74,Female,Maharashtra,1,2,Covishield,3,0,130,0,0,0,0
+34,Female,Maharashtra,0,2,Covaxin,2,1,84,0,1,1,0
+64,Male,Maharashtra,1,1,None,2,0,271,0,0,0,0
+40,Female,Delhi,0,0,Covaxin,0,0,244,0,1,1,0
+31,Male,Karnataka,1,1,Covishield,2,0,214,1,1,0,1
+83,Female,Delhi,0,1,Sputnik V,0,0,306,0,0,0,0
+68,Female,Bihar,1,0,Sputnik V,3,0,166,0,0,0,0
+55,Male,Maharashtra,1,1,Covaxin,2,0,279,0,0,0,0
+81,Female,Bihar,0,0,Covishield,1,0,59,0,1,0,1
+55,Female,Tamil Nadu,0,2,Sputnik V,3,0,90,1,0,0,1
+67,Male,Uttar Pradesh,1,2,Covaxin,0,0,331,0,0,1,0
+47,Female,Uttar Pradesh,1,0,Covaxin,3,0,194,0,1,0,0
+68,Female,Delhi,0,2,Covishield,0,0,123,0,0,0,0
+80,Female,Karnataka,1,2,None,3,0,136,0,0,1,1
+69,Male,Bihar,0,0,Covaxin,0,0,139,0,0,0,1
+55,Female,Karnataka,1,2,None,2,0,229,0,0,1,1
+47,Female,Delhi,0,1,None,1,0,274,0,1,0,0
+68,Female,Uttar Pradesh,1,1,Sputnik V,0,0,50,0,0,1,0
+22,Female,Karnataka,0,0,None,3,0,118,0,0,0,1
+46,Male,Karnataka,0,2,Covishield,0,0,202,0,1,1,0
+21,Male,Uttar Pradesh,0,1,Sputnik V,0,0,191,0,0,1,0
+27,Female,Bihar,0,1,Sputnik V,0,0,364,0,1,0,0
+73,Female,Uttar Pradesh,0,2,Sputnik V,3,0,323,0,1,0,1
+34,Male,Karnataka,0,2,Covaxin,1,0,181,0,0,0,0
+34,Male,Bihar,1,1,Covaxin,2,0,78,0,0,1,0
+86,Female,Bihar,0,1,None,1,0,75,0,1,0,0
+51,Male,Uttar Pradesh,0,0,Sputnik V,0,0,295,1,0,0,0
+23,Female,Karnataka,0,0,Sputnik V,3,0,281,0,0,0,0
+70,Male,Delhi,0,1,Covishield,1,0,21,0,1,0,0
+83,Male,Karnataka,0,0,None,0,0,171,0,0,0,0
+60,Male,Maharashtra,0,1,Covishield,2,0,15,0,1,1,0
+40,Male,Tamil Nadu,0,1,None,2,0,211,0,0,0,1
+72,Female,Delhi,0,0,None,2,0,48,1,0,1,1
+33,Male,Bihar,0,0,Covaxin,0,1,86,0,0,0,0
+25,Male,Delhi,0,2,Covaxin,3,0,149,1,1,0,1
+21,Female,Bihar,0,2,Covishield,1,0,188,0,0,0,0
+21,Male,Bihar,0,2,None,2,0,306,0,1,0,0
+73,Male,Delhi,1,1,Sputnik V,0,0,151,0,0,1,0
+42,Female,Bihar,0,0,Covaxin,0,0,141,0,0,1,0
+84,Male,Bihar,1,1,Sputnik V,1,0,69,0,0,0,0
+84,Female,Maharashtra,0,0,Covishield,2,0,260,1,0,0,0
+44,Female,Karnataka,1,1,Covaxin,0,0,334,1,0,0,0
+49,Female,Karnataka,1,2,Covaxin,1,0,9,1,0,1,0
+67,Female,Tamil Nadu,0,2,None,3,0,121,0,0,1,0
+78,Male,Tamil Nadu,1,2,Covishield,3,0,101,0,1,1,0
+68,Female,Maharashtra,0,1,None,3,0,149,0,0,0,0
+36,Male,Tamil Nadu,0,0,Covaxin,2,0,146,0,1,0,0
+38,Male,Delhi,1,0,Covishield,1,0,353,0,0,0,0
+22,Male,Uttar Pradesh,1,2,Covaxin,1,0,243,0,0,0,0
+59,Male,Uttar Pradesh,0,2,Covishield,0,0,241,0,0,0,0
+78,Male,Uttar Pradesh,0,2,Covaxin,0,0,337,0,0,0,0
+39,Male,Maharashtra,0,2,Sputnik V,0,0,43,0,0,0,1
+38,Male,Maharashtra,0,0,Sputnik V,1,0,95,0,0,1,1
+87,Male,Bihar,1,1,None,0,0,226,0,0,1,1
+18,Male,Uttar Pradesh,0,1,Sputnik V,1,0,6,0,1,0,0
+22,Male,Delhi,0,1,Covaxin,1,0,214,0,0,0,0
+29,Female,Tamil Nadu,0,1,Covaxin,3,0,206,0,1,0,1
+63,Female,Delhi,0,2,Sputnik V,0,0,67,0,0,1,0
+51,Female,Tamil Nadu,0,2,None,3,0,100,0,0,1,0
+66,Male,Uttar Pradesh,1,2,Sputnik V,2,0,12,0,0,1,0
+62,Female,Uttar Pradesh,1,1,Covishield,2,0,237,0,0,1,0
+44,Female,Uttar Pradesh,1,2,Covishield,2,0,322,0,0,0,1
+43,Female,Maharashtra,0,2,Covishield,1,0,258,0,0,0,0
+64,Male,Tamil Nadu,1,0,Sputnik V,1,0,337,0,0,0,0
+73,Male,Maharashtra,1,0,Sputnik V,1,0,135,0,0,0,0
+80,Male,Maharashtra,1,2,Sputnik V,0,0,222,0,0,1,0
+65,Male,Karnataka,0,0,Covishield,3,0,156,0,0,0,0
+78,Female,Delhi,0,0,None,1,0,142,0,0,0,0
+43,Female,Delhi,0,2,Covaxin,3,0,158,0,1,0,0
+53,Female,Bihar,0,2,Sputnik V,3,0,326,0,1,1,0
+18,Female,Maharashtra,0,2,None,3,0,344,0,0,0,0
+25,Male,Tamil Nadu,0,2,Covaxin,0,0,262,0,1,0,0
+69,Male,Karnataka,0,1,Covaxin,0,0,283,0,1,0,0
+64,Male,Karnataka,1,1,Covaxin,2,0,338,1,0,0,0
+73,Female,Delhi,0,2,None,2,0,344,0,0,0,0
+31,Male,Maharashtra,0,0,None,3,0,229,0,1,1,1
+45,Male,Bihar,1,2,Covishield,2,0,280,0,0,0,1
+19,Female,Maharashtra,1,2,None,3,0,358,0,1,1,0
+43,Female,Uttar Pradesh,1,0,None,0,0,290,0,0,0,0
+31,Male,Maharashtra,1,1,None,0,0,168,0,0,0,0
+76,Male,Uttar Pradesh,0,2,Covaxin,0,0,47,0,0,1,0
+73,Male,Uttar Pradesh,1,2,Sputnik V,1,0,203,1,0,0,0
+24,Male,Bihar,0,1,Covishield,3,0,214,0,1,0,1
+20,Male,Tamil Nadu,0,1,Sputnik V,0,0,246,0,1,1,0
+40,Male,Delhi,0,0,Sputnik V,3,0,24,1,0,0,1
+35,Female,Maharashtra,0,1,None,2,0,321,0,0,1,0
+55,Female,Uttar Pradesh,0,1,Covishield,2,0,274,0,1,0,0
+32,Female,Maharashtra,1,1,Sputnik V,0,0,44,0,0,0,0
+81,Male,Tamil Nadu,1,0,Sputnik V,3,0,332,0,0,0,0
+45,Female,Delhi,0,1,Covishield,0,0,313,0,0,1,0
+56,Male,Tamil Nadu,0,1,None,2,0,363,1,1,0,0
+74,Male,Delhi,1,0,Sputnik V,0,0,156,0,1,1,0
+34,Female,Karnataka,1,1,Covaxin,3,0,199,0,0,1,0
+61,Male,Delhi,0,1,Sputnik V,2,0,162,1,0,0,0
+42,Male,Bihar,1,0,Covaxin,1,0,234,0,1,0,0
+34,Female,Tamil Nadu,0,2,None,2,0,163,0,0,0,0
+30,Female,Uttar Pradesh,0,0,Sputnik V,1,0,116,0,0,0,0
+42,Female,Karnataka,1,1,Covishield,0,0,93,1,0,0,0
+85,Male,Bihar,0,1,Covishield,0,0,42,0,1,0,0
+27,Female,Maharashtra,0,1,Sputnik V,3,0,284,0,0,1,0
+84,Female,Tamil Nadu,1,0,None,1,0,210,0,0,1,0
+35,Male,Uttar Pradesh,1,1,None,0,0,206,0,0,1,0
+51,Female,Delhi,0,1,Covishield,1,0,220,1,0,1,0
+25,Female,Uttar Pradesh,0,0,Sputnik V,0,0,280,0,0,0,0
+57,Female,Maharashtra,0,2,None,2,0,136,0,0,1,1
+59,Male,Karnataka,1,2,Covishield,0,0,106,1,0,1,0
+58,Male,Karnataka,0,1,Covaxin,3,0,118,0,0,0,0
+23,Male,Tamil Nadu,0,0,Sputnik V,2,0,237,0,0,1,1
+69,Male,Karnataka,1,1,Covaxin,3,0,309,0,0,0,0
+43,Female,Tamil Nadu,0,0,Covaxin,2,0,100,0,1,0,1
+81,Male,Tamil Nadu,0,0,None,1,0,261,0,1,1,0
+76,Male,Tamil Nadu,0,2,None,3,0,305,1,0,1,0
+73,Female,Delhi,1,2,None,0,0,354,0,1,0,1
+76,Female,Bihar,0,0,Sputnik V,1,0,286,0,0,1,0
+87,Female,Tamil Nadu,0,1,Covaxin,0,0,328,0,1,0,0
+50,Male,Tamil Nadu,1,2,Sputnik V,2,1,103,0,0,0,0
+70,Male,Bihar,0,1,None,2,0,63,0,0,1,0
+39,Male,Uttar Pradesh,0,2,Covaxin,0,0,175,0,0,0,0
+38,Female,Tamil Nadu,0,2,Sputnik V,0,0,282,1,0,1,0
+87,Female,Delhi,0,1,Sputnik V,1,0,293,0,1,0,0
+87,Male,Karnataka,0,2,Covishield,0,0,226,0,0,0,0
+21,Female,Karnataka,0,2,Sputnik V,3,0,7,0,0,0,0
+79,Female,Maharashtra,0,1,None,3,0,127,1,0,0,0
+79,Female,Maharashtra,0,2,Sputnik V,0,0,92,0,1,0,0
+41,Male,Karnataka,1,2,Covaxin,3,0,190,0,0,1,1
+72,Female,Karnataka,1,2,Sputnik V,0,0,359,0,0,0,0
+26,Female,Delhi,1,1,Covishield,1,0,53,1,1,1,0
+20,Male,Bihar,1,0,Covaxin,3,0,242,0,0,0,0
+48,Male,Maharashtra,0,1,Covaxin,3,0,132,0,0,0,0
+57,Female,Bihar,1,0,Covishield,0,0,364,0,1,0,0
+53,Female,Delhi,0,2,None,3,0,112,0,0,0,1
+41,Male,Karnataka,1,0,Covaxin,2,0,7,0,0,0,0
+23,Male,Tamil Nadu,1,1,None,1,0,230,0,0,0,1
+83,Female,Bihar,1,1,Covaxin,1,0,156,0,1,0,0
+21,Female,Karnataka,1,2,Covaxin,3,0,197,1,0,0,0
+23,Female,Karnataka,0,0,None,3,0,323,1,1,0,0
+68,Female,Uttar Pradesh,0,2,Covaxin,2,0,364,0,1,0,0
+79,Male,Bihar,0,2,None,2,0,223,0,0,0,0
+74,Female,Tamil Nadu,0,1,Covishield,3,0,250,0,1,1,0
+83,Female,Bihar,0,0,None,3,0,83,0,0,0,0
+25,Male,Karnataka,1,0,Covishield,2,0,240,0,0,1,1
+43,Female,Tamil Nadu,1,0,Covaxin,0,0,360,0,1,0,1
+68,Male,Delhi,0,0,None,2,0,323,0,1,1,0
+62,Female,Uttar Pradesh,1,2,Covaxin,0,0,263,0,0,0,0
+61,Female,Karnataka,1,2,None,1,0,189,0,0,1,0
+22,Male,Maharashtra,1,1,Covishield,1,0,290,0,0,0,0
+87,Male,Maharashtra,1,2,Covishield,2,0,362,0,0,1,1
+43,Female,Uttar Pradesh,0,2,None,0,0,58,0,0,1,0
+85,Female,Delhi,1,1,Covishield,2,0,9,1,0,1,0
+36,Female,Karnataka,1,1,Covaxin,2,0,304,0,0,0,0
+37,Male,Bihar,0,1,Covaxin,0,0,115,0,0,0,0
+29,Female,Uttar Pradesh,0,2,Sputnik V,2,0,210,0,0,0,0
+64,Male,Delhi,1,2,Covishield,1,0,41,0,1,0,0
+18,Male,Bihar,0,1,Covaxin,3,0,304,1,1,1,0
+31,Female,Maharashtra,1,1,None,3,1,173,0,0,0,0
+81,Male,Maharashtra,1,1,Covishield,2,0,234,0,0,0,0
+55,Female,Bihar,0,2,Covaxin,0,0,281,0,0,0,0
+54,Female,Uttar Pradesh,0,2,Covishield,0,0,78,0,0,0,0
+28,Female,Maharashtra,1,0,None,1,0,108,1,0,0,0
+20,Female,Karnataka,0,2,Covaxin,0,0,281,0,1,1,0
+50,Female,Tamil Nadu,0,2,Sputnik V,0,0,39,0,0,0,0
+23,Male,Bihar,0,2,Sputnik V,1,0,119,0,0,0,0
+67,Male,Bihar,0,1,Covishield,2,0,335,0,0,0,0
+27,Female,Maharashtra,1,2,None,3,1,336,0,0,0,0
+22,Female,Uttar Pradesh,0,1,Covaxin,1,0,27,0,0,0,0
+40,Male,Karnataka,1,0,None,2,0,104,0,1,1,0
+27,Male,Uttar Pradesh,0,0,Covaxin,1,0,74,0,0,1,0
+61,Male,Delhi,0,1,Covishield,2,0,191,1,0,1,0
+19,Male,Delhi,1,1,Covaxin,1,0,324,0,0,1,1
+30,Female,Tamil Nadu,1,1,None,2,0,147,0,1,0,1
+57,Female,Maharashtra,0,2,None,1,0,255,0,0,1,0
+19,Male,Maharashtra,0,0,Covishield,2,0,284,0,0,1,0
+82,Female,Maharashtra,0,1,None,1,0,213,0,1,1,0
+80,Male,Tamil Nadu,0,2,Covaxin,3,0,123,0,0,0,0
+34,Female,Delhi,1,0,Covishield,3,0,206,0,0,1,0
+26,Male,Uttar Pradesh,0,2,Covaxin,0,0,240,0,0,1,1
+32,Female,Tamil Nadu,0,0,None,2,0,339,0,0,1,0
+41,Male,Tamil Nadu,0,2,Covishield,1,0,286,0,0,0,1
+55,Male,Uttar Pradesh,1,0,Covaxin,2,0,22,0,0,1,0
+52,Female,Maharashtra,1,0,None,3,0,259,0,0,1,0
+66,Male,Karnataka,0,2,None,2,0,357,1,0,1,0
+86,Female,Uttar Pradesh,1,1,Sputnik V,1,0,105,1,0,0,0
+79,Female,Delhi,0,0,None,2,0,258,0,0,1,0
+77,Male,Bihar,0,1,Covaxin,1,0,204,0,0,0,0
+67,Female,Bihar,1,2,Covishield,3,0,310,0,1,0,0
+26,Female,Tamil Nadu,1,1,Sputnik V,3,0,262,0,0,0,0
+51,Female,Bihar,1,1,None,3,0,107,1,0,1,0
+52,Female,Karnataka,0,1,None,0,0,251,0,0,0,0
+18,Female,Maharashtra,0,1,None,3,0,221,0,0,0,0
+57,Male,Delhi,1,1,Covaxin,2,0,222,0,0,1,0
+81,Female,Karnataka,0,0,Sputnik V,0,0,258,0,0,1,0
+39,Female,Delhi,0,0,Covaxin,3,0,201,0,0,0,0
+77,Female,Delhi,0,0,Sputnik V,2,0,258,0,0,1,1
+81,Female,Maharashtra,1,2,Covishield,2,0,349,0,1,1,0
+89,Female,Tamil Nadu,0,1,Covaxin,2,0,225,0,0,0,0
+28,Male,Bihar,0,0,Covaxin,1,0,202,0,0,0,0
+31,Female,Maharashtra,1,2,Covishield,0,0,226,0,0,0,1
+77,Male,Karnataka,0,0,Sputnik V,2,0,236,0,0,0,0
+47,Male,Tamil Nadu,0,0,None,1,0,183,0,0,0,0
+52,Male,Karnataka,0,1,Covishield,3,0,200,0,0,1,0
+54,Male,Tamil Nadu,0,2,None,2,0,357,1,0,1,0
+22,Female,Karnataka,0,1,None,1,0,246,1,1,0,0
+43,Male,Maharashtra,0,1,Covishield,2,0,353,1,1,0,0
+79,Male,Tamil Nadu,1,0,Sputnik V,0,0,111,0,0,0,0
+21,Female,Tamil Nadu,0,1,None,0,0,6,0,0,0,1
+59,Female,Delhi,1,2,Covishield,3,0,236,0,1,0,0
+35,Female,Delhi,0,1,Covaxin,2,0,127,1,0,1,0
+57,Male,Uttar Pradesh,0,1,Covaxin,1,0,104,1,0,1,0
+89,Female,Karnataka,0,1,Covaxin,3,0,237,1,0,0,0
+56,Female,Delhi,0,0,Covishield,2,0,155,0,0,1,0
+31,Male,Uttar Pradesh,1,2,Covaxin,3,0,257,1,0,0,0
+49,Female,Delhi,0,0,None,1,0,235,0,0,1,0
+68,Female,Karnataka,0,0,Covaxin,3,0,289,0,0,0,0
+55,Female,Tamil Nadu,1,0,Covaxin,3,1,40,0,0,0,0
+40,Female,Bihar,1,0,None,3,0,288,0,1,1,1
+80,Male,Karnataka,1,0,Covaxin,2,0,197,0,0,0,0
+32,Female,Maharashtra,0,2,None,1,0,273,0,0,1,0
+42,Female,Delhi,1,1,Covaxin,0,0,264,0,0,0,0
+34,Male,Delhi,0,0,None,2,0,57,0,1,0,0
+83,Female,Tamil Nadu,0,0,Covaxin,0,0,298,1,1,0,0
+70,Male,Maharashtra,0,2,None,0,0,98,0,0,0,1
+68,Female,Tamil Nadu,0,2,Covishield,2,0,137,0,0,1,0
+56,Male,Maharashtra,0,1,None,2,0,87,0,1,0,0
+68,Male,Bihar,0,2,Covaxin,1,0,242,1,0,1,0
+87,Male,Delhi,1,1,Covaxin,1,0,199,0,0,1,0
+23,Male,Delhi,0,0,Sputnik V,3,0,310,0,0,1,0
+84,Female,Bihar,0,0,None,0,0,84,0,0,0,0
+24,Male,Uttar Pradesh,0,1,Covishield,1,0,242,0,0,1,1
+68,Female,Tamil Nadu,1,2,None,3,0,281,0,0,0,0
+89,Male,Bihar,0,1,None,1,0,323,1,0,0,0
+59,Male,Tamil Nadu,0,2,Covishield,2,0,252,0,1,0,1
+81,Male,Karnataka,1,0,None,1,0,190,0,1,0,0
+32,Female,Delhi,1,2,Covishield,0,0,152,1,1,0,0
+46,Male,Tamil Nadu,0,1,Covishield,1,0,302,1,1,0,0
+50,Female,Maharashtra,1,1,None,0,1,278,0,0,0,0
+44,Female,Tamil Nadu,1,0,None,2,0,139,1,0,0,0
+53,Female,Karnataka,1,2,Covaxin,0,0,176,0,0,1,1
+46,Female,Delhi,0,2,Covaxin,1,0,8,0,1,0,0
+55,Female,Bihar,1,2,Sputnik V,3,0,295,0,0,0,0
+74,Female,Karnataka,0,0,Sputnik V,2,0,235,0,1,0,0
+44,Female,Delhi,0,2,None,1,0,163,0,0,1,1
+72,Female,Tamil Nadu,0,1,Covishield,2,0,49,0,1,0,0
+50,Female,Uttar Pradesh,0,2,Sputnik V,2,0,302,0,0,0,0
+85,Male,Uttar Pradesh,0,0,None,1,0,38,0,0,0,0
+83,Male,Maharashtra,1,2,Sputnik V,1,0,136,0,1,1,0
+27,Male,Delhi,0,2,Covishield,3,0,310,0,0,0,1
+22,Male,Uttar Pradesh,0,1,None,2,1,219,0,1,1,1
+55,Male,Bihar,0,2,Covishield,2,0,348,0,0,0,0
+30,Female,Delhi,0,1,None,1,0,296,0,0,0,0
+48,Female,Bihar,1,1,Sputnik V,0,0,34,0,0,0,0
+64,Female,Bihar,0,0,Covaxin,1,0,352,0,0,0,0
+69,Female,Uttar Pradesh,0,1,Sputnik V,2,0,79,0,0,0,0
+73,Female,Delhi,0,1,Sputnik V,1,0,236,0,0,0,0
+32,Female,Tamil Nadu,0,0,Covaxin,3,0,273,1,0,0,0
+46,Female,Karnataka,0,1,Covaxin,0,0,161,0,0,1,1
+25,Male,Uttar Pradesh,1,0,None,1,0,175,0,0,0,0
+22,Male,Uttar Pradesh,1,2,None,3,0,308,0,0,1,1
+46,Male,Tamil Nadu,0,0,Covishield,2,0,221,1,1,0,0
+64,Male,Delhi,1,1,Covishield,1,0,9,0,0,0,0
+85,Female,Delhi,1,0,Sputnik V,2,0,289,0,0,0,1
+62,Female,Bihar,1,1,Covaxin,3,0,113,0,0,0,0
+19,Female,Tamil Nadu,0,2,Covishield,2,0,205,0,0,0,0
+44,Male,Tamil Nadu,0,0,Sputnik V,3,0,186,0,0,0,0
+53,Female,Delhi,0,2,Covaxin,3,0,341,0,1,1,0
+53,Female,Bihar,1,1,None,3,0,197,0,1,1,1
+43,Female,Uttar Pradesh,1,1,Sputnik V,1,0,266,0,0,0,1
+60,Male,Maharashtra,0,2,None,2,0,262,0,0,1,0
+44,Female,Karnataka,0,0,Covishield,2,0,248,0,1,1,0
+86,Male,Uttar Pradesh,1,0,Covishield,0,0,115,0,0,0,0
+37,Male,Delhi,1,1,Covaxin,0,0,121,0,0,1,0
+28,Male,Karnataka,1,2,Sputnik V,0,0,141,1,0,0,0
+55,Male,Maharashtra,1,2,None,0,0,65,0,0,0,0
+23,Female,Maharashtra,0,0,Covaxin,2,0,276,0,1,0,0
+89,Male,Bihar,0,0,Covishield,3,0,313,0,0,0,0
+40,Male,Karnataka,1,0,Covishield,3,0,239,0,0,0,0
+64,Female,Bihar,0,2,Sputnik V,1,1,302,0,0,0,0
+63,Female,Uttar Pradesh,0,0,None,3,0,10,0,1,1,0
+29,Male,Tamil Nadu,1,0,Sputnik V,2,0,233,1,1,1,1
+30,Female,Tamil Nadu,0,1,None,2,0,195,0,0,1,1
+79,Male,Tamil Nadu,1,0,None,2,0,12,0,0,1,0
+77,Male,Karnataka,0,0,Sputnik V,1,0,177,0,0,1,0
+60,Male,Tamil Nadu,1,2,Covaxin,0,0,177,0,1,0,1
+85,Male,Uttar Pradesh,0,2,Sputnik V,3,0,217,0,1,0,1
+22,Female,Bihar,0,1,Sputnik V,2,0,11,0,0,0,1
+54,Male,Karnataka,1,0,Covishield,2,0,118,0,1,1,0
+89,Female,Bihar,0,1,Covishield,0,0,164,1,0,0,1
+48,Female,Karnataka,1,2,Sputnik V,2,0,39,0,0,1,0
+26,Female,Bihar,1,1,Sputnik V,3,0,53,1,0,0,0
+68,Female,Maharashtra,0,2,Covishield,1,1,218,0,0,0,1
+46,Male,Bihar,0,1,None,2,1,206,0,0,1,0
+57,Female,Tamil Nadu,0,1,Sputnik V,3,0,312,0,0,0,1
+58,Male,Maharashtra,0,0,Covaxin,2,0,360,0,0,0,0
+28,Female,Bihar,1,1,Covaxin,0,0,56,1,0,0,1
+40,Female,Karnataka,1,0,Covaxin,2,0,118,0,0,0,0
+18,Male,Karnataka,1,0,Sputnik V,2,0,253,0,0,1,1
+63,Male,Karnataka,1,0,None,1,0,286,0,0,0,0
+38,Male,Delhi,0,0,None,0,0,268,0,0,0,0
+53,Female,Uttar Pradesh,1,1,Covishield,0,0,291,1,0,0,0
+71,Female,Karnataka,1,2,Sputnik V,1,0,333,0,1,1,0
+74,Male,Maharashtra,1,2,None,2,0,180,0,1,0,0
+18,Male,Karnataka,1,2,Sputnik V,3,0,358,0,1,0,0
+80,Male,Delhi,0,1,Covishield,0,0,235,1,0,1,0
+71,Male,Tamil Nadu,1,0,Covishield,0,0,343,0,0,0,0
+72,Female,Maharashtra,0,2,Covishield,2,0,196,0,0,1,0
+57,Male,Delhi,0,1,Covaxin,2,0,308,0,0,0,1
+32,Male,Tamil Nadu,0,0,Sputnik V,0,0,80,0,0,0,0
+38,Male,Maharashtra,1,2,Covishield,2,0,135,0,0,0,0
+64,Male,Bihar,1,0,Sputnik V,3,0,22,0,1,1,0
+70,Female,Uttar Pradesh,1,2,Covaxin,0,0,331,0,0,1,0
+26,Male,Uttar Pradesh,1,2,Covaxin,3,0,225,0,1,0,0
+69,Female,Delhi,0,2,Covishield,3,0,58,0,1,0,0
+74,Male,Tamil Nadu,1,0,Covishield,2,0,93,0,0,1,1
+43,Male,Uttar Pradesh,0,1,None,3,0,192,0,1,1,0
+58,Female,Tamil Nadu,0,0,Sputnik V,2,0,103,1,0,1,0
+52,Male,Tamil Nadu,0,2,Covishield,1,0,7,1,1,0,0
+80,Female,Delhi,1,0,None,2,0,128,0,0,1,0
+42,Female,Delhi,1,1,Sputnik V,3,0,55,0,1,0,0
+55,Male,Delhi,0,0,Covishield,1,0,231,0,0,0,0
+19,Female,Uttar Pradesh,0,1,None,2,0,362,0,1,0,0
+24,Female,Delhi,1,1,None,3,0,62,0,0,1,0
+51,Female,Uttar Pradesh,0,0,Sputnik V,0,0,240,0,0,0,0
+34,Female,Delhi,1,2,None,0,0,90,0,1,0,1
+60,Female,Karnataka,1,1,Sputnik V,2,1,232,1,1,1,0
+76,Female,Tamil Nadu,0,0,Sputnik V,2,0,233,0,0,0,0
+68,Female,Delhi,0,1,Sputnik V,0,0,354,0,0,1,0
+71,Female,Maharashtra,1,2,Covaxin,3,1,333,0,0,1,0
+41,Male,Tamil Nadu,1,0,None,3,1,292,0,1,0,1
+42,Male,Tamil Nadu,0,0,Sputnik V,3,0,345,0,1,1,0
+88,Female,Delhi,1,0,Covishield,2,0,152,0,1,1,0
+69,Male,Bihar,0,2,Covaxin,1,0,145,0,0,1,1
+87,Female,Delhi,0,1,Covaxin,1,0,130,0,0,1,0
+50,Female,Tamil Nadu,1,0,None,1,0,141,1,0,1,0
+66,Male,Maharashtra,1,1,Sputnik V,1,0,93,0,1,0,0
+46,Female,Tamil Nadu,0,1,None,1,0,114,0,0,0,0
+80,Female,Maharashtra,1,2,Covaxin,2,0,284,0,1,1,0
+39,Female,Uttar Pradesh,0,0,Sputnik V,2,0,143,0,0,0,1
+43,Female,Karnataka,0,1,Covishield,1,0,223,0,0,0,0
+45,Male,Tamil Nadu,0,0,Sputnik V,2,0,232,0,0,1,0
+66,Female,Delhi,1,0,Covaxin,2,0,33,1,0,1,0
+88,Female,Uttar Pradesh,0,2,Covishield,1,0,276,1,0,0,0
+66,Female,Karnataka,0,0,Sputnik V,3,0,170,0,0,1,0
+37,Male,Delhi,0,0,Covishield,2,0,140,1,0,1,0
+80,Female,Bihar,1,1,Covishield,3,0,357,0,1,0,1
+78,Male,Delhi,1,2,Covaxin,2,0,201,0,0,1,1
+66,Male,Maharashtra,1,0,Covishield,2,0,23,0,0,0,1
+88,Female,Maharashtra,0,1,None,1,0,224,0,0,0,1
+18,Female,Bihar,1,2,Covaxin,2,0,270,0,0,0,0
+30,Male,Uttar Pradesh,0,2,None,0,0,347,0,1,0,0
+68,Female,Karnataka,1,1,Covishield,0,0,153,0,0,0,1
+73,Male,Delhi,1,1,None,1,0,333,0,1,1,0
+79,Male,Maharashtra,0,1,Sputnik V,3,0,85,0,0,1,0
+49,Female,Uttar Pradesh,1,1,Covishield,3,1,109,1,0,0,0
+47,Female,Bihar,0,1,Sputnik V,3,0,31,0,0,1,0
+46,Male,Tamil Nadu,0,0,None,0,0,229,0,0,0,1
+66,Male,Maharashtra,0,0,Sputnik V,3,0,240,0,0,0,0
+62,Male,Bihar,0,2,Covishield,3,0,363,0,1,1,0
+47,Male,Delhi,0,0,Sputnik V,1,1,310,0,0,0,1
+33,Female,Karnataka,1,0,None,3,0,141,0,0,0,0
+57,Female,Maharashtra,0,0,None,0,0,156,0,0,1,0
+36,Female,Maharashtra,1,1,None,0,0,299,0,0,0,0
+35,Female,Delhi,0,2,Covishield,0,0,345,0,0,1,1
+18,Female,Tamil Nadu,0,2,None,1,0,99,0,0,0,0
+64,Male,Uttar Pradesh,1,2,Covishield,1,0,47,0,0,0,0
+83,Female,Karnataka,0,2,Sputnik V,2,0,327,0,0,0,0
+55,Female,Maharashtra,0,0,None,3,0,67,1,0,0,0
+68,Female,Karnataka,1,0,Sputnik V,1,0,62,0,1,0,1
+80,Female,Maharashtra,0,1,Covaxin,0,1,109,0,0,0,1
+21,Female,Karnataka,0,2,Sputnik V,0,0,167,0,0,1,0
+18,Male,Bihar,0,0,Covaxin,1,0,37,0,1,1,0
+25,Male,Maharashtra,1,0,Sputnik V,1,0,119,1,0,0,1
+46,Male,Karnataka,1,1,Covishield,1,0,86,0,0,0,1
+72,Female,Uttar Pradesh,1,1,Sputnik V,2,0,52,0,0,0,1
+20,Male,Bihar,1,1,Covishield,0,0,91,0,0,1,1
+49,Male,Bihar,0,0,Covishield,2,0,289,0,0,1,0
+27,Female,Uttar Pradesh,0,0,None,2,0,337,0,1,0,0
+51,Female,Karnataka,1,1,Covishield,3,0,298,0,1,1,0
+72,Female,Delhi,0,2,Covaxin,0,0,204,0,1,0,0
+49,Male,Uttar Pradesh,0,1,None,0,0,238,0,1,0,0
+67,Male,Karnataka,0,1,None,1,0,155,0,0,0,0
