@@ -5,7 +5,6 @@ import joblib
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
-# ---------------- CONFIG ----------------
 st.set_page_config(
     page_title="COVID Vaccine Cardiac Risk Dashboard",
     layout="wide"
@@ -13,11 +12,10 @@ st.set_page_config(
 
 st.title("AI-Based Post-COVID Vaccination Cardiac Risk Dashboard")
 
-# ---------------- LOAD MODEL ----------------
 model = joblib.load("model/cardiac_model.pkl")
 encoders = joblib.load("model/encoders.pkl")
 
-# ---------------- DATA SOURCE ----------------
+
 st.sidebar.subheader("Dataset Source")
 
 uploaded_file = st.sidebar.file_uploader(
